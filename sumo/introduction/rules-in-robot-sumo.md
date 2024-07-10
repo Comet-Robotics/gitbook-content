@@ -1,0 +1,2 @@
+# Rules in robot sumo
+
