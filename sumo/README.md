@@ -1,2 +1,2 @@
-# Robot sumo weight classes
+# What is robot sumo?
 

@@ -1,0 +1,2 @@
+# Robot sumo weight classes
+

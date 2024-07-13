@@ -14,5 +14,5 @@ When watching a live robot sumo match for the first time, you might have certain
 * How does the robot know not to accidentally go off the edge of the ring?&#x20;
 * How is the robot able to move without a human behind a remote?
 
-These questions will all be answered in the following sections where we cover what are considered the basic components needed to build a sumo bot. After choosing what parts you want to put into your robot, we will then learn to assemble those parts into a schematic, so we better understand how each part is wired together.&#x20;
+These questions will all be answered in the following sections where we cover what are considered the basic components needed to build a sumo bot. After choosing what parts you want to put in your robot, we will then learn to assemble those parts into a schematic to better understand how everything is connected.&#x20;
 
