@@ -19,7 +19,7 @@ Like our brain, a microcontroller is responsible for processing loads of informa
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>An official Arduino R3 microcontroller board</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>An official Arduino R3 microcontroller board</p></figcaption></figure>
 
 &#x20;
 
@@ -29,7 +29,7 @@ These are among a few of the most popular brands used for robot sumo and robotic
 
 #### Size
 
-This will never not be a consideration for our sumo bot. Ideally, choose a board that is small enough while leaving room for other parts that will eventually go on your PCB (more on this later in later sections).&#x20;
+This will never not be a consideration for our sumo bot. Ideally, choose a board that is small enough while leaving room for other parts that will eventually go on your PCB (more on this in later sections).&#x20;
 
 #### Input/Output Pins&#x20;
 
@@ -44,8 +44,6 @@ When starting out, this isn't a huge consideration. Arduino works just fine for 
 #### Peripherals&#x20;
 
 In addition to the number of I/O pins you want, peripherals are another consideration. Peripherals include other parts in microcontroller that help perform a specific task such as pulse width modulation (PWM), UART[^2], I2C[^3], ADC[^4], SPI[^5], etc.&#x20;
-
-
 
 #### Cost
 
@@ -65,7 +63,7 @@ As always consider cost in your budget. Microcontroller boards usually range fro
 
 
 
-[^3]: Pronounced "eye-squared C". One type of communication protocol&#x20;
+[^3]: Pronounced "eye-squared C". One type of of communication protocol&#x20;
 
 
 

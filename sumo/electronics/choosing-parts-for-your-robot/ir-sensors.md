@@ -14,7 +14,7 @@ IR sensors come in two types: analog and digital sensors. Analog sensors, such a
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>JSUMO JS40F IR sensors</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>JSUMO JS40F IR sensors</p></figcaption></figure>
 
 {% hint style="warning" %}
 If using JSUMO sensors, be mindful of limited documentation that is provided.&#x20;
