@@ -18,7 +18,7 @@
   * [IR/RF Remote](electronics/choosing-parts-for-your-robot/ir-rf-remote.md)
   * [Battery](electronics/choosing-parts-for-your-robot/battery.md)
   * [Voltage regulator](electronics/choosing-parts-for-your-robot/voltage-regulator.md)
-* [Calculating Power consumption](electronics/calculating-power-consumption.md)
+* [Calculating power consumption](electronics/calculating-power-consumption.md)
 * [Making your first schematic ](electronics/making-your-first-schematic.md)
 * [Turning your schematic into a PCB](electronics/turning-your-schematic-into-a-pcb.md)
 * [Getting your PCB fabricated](electronics/getting-your-pcb-fabricated.md)
