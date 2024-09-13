@@ -12,14 +12,17 @@
 * [Putting the Pieces Together - Soldering](electronics/putting-the-pieces-together-soldering.md)
 * [Page](electronics/page.md)
 
-## Combat Blocks
+## Combat Design
 
-* [How Combat Robots are Designed](combat-blocks/how-combat-robots-are-designed.md)
-* [Designing a Combat Robot (CAD Part 1)](combat-blocks/designing-a-combat-robot-cad-part-1.md)
+* [How Combat Robots are Designed (feat. Combat Blocks)](combat-design/how-combat-robots-are-designed-feat.-combat-blocks.md)
+* [Designing a Combat Robot (CAD Primer)](combat-design/designing-a-combat-robot-cad-primer.md)
 
-## CAD
+## CAD (Solidworks) <a href="#cad" id="cad"></a>
 
-* [Page 1](cad/page-1.md)
+* [Installing Solidworks](cad/installing-solidworks.md)
+* [Introduction to Solidworks](cad/introduction-to-solidworks.md)
+* [(Recommended) Sharepoint Setup](cad/recommended-sharepoint-setup.md)
+* [Starting a Robot Assembly](cad/starting-a-robot-assembly.md)
 
 ## 3D Printing
 
