@@ -43,9 +43,6 @@ Robots can further be broken down into these categories:
 * Full Combat
 * Sportsman
 * **Plastic**
-* ...
-
-
 
 
 

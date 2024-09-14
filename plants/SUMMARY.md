@@ -1,10 +1,10 @@
 # Table of contents
 
-## Combat Robotics
+## Combat Robotics Basics <a href="#combat-robotics" id="combat-robotics"></a>
 
 * [Combat Robot Weight Classes](README.md)
 * [How do you win in Battlebots?](combat-robotics/how-do-you-win-in-battlebots.md)
-* [SPARC rules](combat-robotics/sparc-rules.md)
+* [Robot Rules](combat-robotics/robot-rules.md)
 
 ## Electronics
 
@@ -12,16 +12,16 @@
 * [Putting the Pieces Together - Soldering](electronics/putting-the-pieces-together-soldering.md)
 * [Page](electronics/page.md)
 
-## Combat Design
+## Robot design <a href="#design" id="design"></a>
 
-* [How Combat Robots are Designed (feat. Combat Blocks)](combat-design/how-combat-robots-are-designed-feat.-combat-blocks.md)
-* [Designing a Combat Robot (CAD Primer)](combat-design/designing-a-combat-robot-cad-primer.md)
+* [How Combat Robots are Designed (feat. Combat Blocks)](design/how-combat-robots-are-designed-feat.-combat-blocks.md)
+* [Designing a Combat Robot (Before you CAD)](design/designing-a-combat-robot-before-you-cad.md)
 
-## CAD (Solidworks) <a href="#cad" id="cad"></a>
+## CAD (Solidworks) Tutorial <a href="#cad" id="cad"></a>
 
+* [Sharepoint Setup](cad/sharepoint-setup.md)
 * [Installing Solidworks](cad/installing-solidworks.md)
 * [Introduction to Solidworks](cad/introduction-to-solidworks.md)
-* [(Recommended) Sharepoint Setup](cad/recommended-sharepoint-setup.md)
 * [Starting a Robot Assembly](cad/starting-a-robot-assembly.md)
 
 ## 3D Printing

@@ -1,6 +1,9 @@
 ---
-description: As with any competition, there are certain rules and win conditions.
-coverY: 0
+description: >-
+  As with any competition, there are certain rules and win conditions. Image
+  credit: JCRB Photo
+cover: ../.gitbook/assets/Hammersaw_animated_NHRL.webp
+coverY: -210
 layout:
   cover:
     visible: true
@@ -27,7 +30,7 @@ Combat robot matches are typically 2-3 minutes, during which the two robots try 
 
 The primary win condition in Combat is **Knock-Outs.** If a robot can't show "controlled movement" the referee will begin a 10 second countdown. If the robot is unable to show controlled movement in this time it is declared the loser by K.O.. If it's opponent attacks during this time the countdown resets and starts at 10 seconds again.&#x20;
 
-Other ways a match can stop before time is out are **tap-outs** and **"out of the arena" zones**. A driver can tap-out by either pressing a button, slapping the glass, or alerting the referee. This instantly stops the fight, and the tapped-out robot is the loser. Out of the arena zones are areas of an arena that have a pit, out zone, death zone, etc. that will cause a loss if the robot enters that zone. In our area of the US, out zones aren't common outside of sportsman/non-destructive events.
+A match can also stop if one of the opponents **tap-out**, or a robot enters an **"out of the arena" zone**. A driver can tap-out by either pressing a button, slapping the glass, or alerting the referee. This instantly stops the fight, and the tapped-out robot loses the match. Out of the arena zones are areas of an arena that have a pit, out zone, death zone, etc. that will cause a loss if the robot enters that zone. In our area of the US, out zones aren't common outside of sportsman/non-destructive events.
 
 {% hint style="info" %}
 For a full description, see the [SPARC](https://sparc.tools/) Match Rules pdf
@@ -55,9 +58,10 @@ Control is scored based on how well and how long each robot **controls the fight
 
 Aggression is scored based on how much time each robot spends **attacking or engaging the other.** This includes attempting to attack an opponent, whether or not the attack is successful.&#x20;
 
-{% hint style="info" %}
-For a full description, see the [SPARC](https://sparc.tools/) Judging Guidelines pdf
-{% endhint %}
 
 
 
+
+See more:
+
+* [https://sparc.tools/](https://sparc.tools/)
