@@ -25,7 +25,7 @@
 
 ## SOFTWARE
 
-* [Page](software/page.md)
+* [Getting Started](software/getting-started.md)
 
 ## MECHANICAL DESIGN
 
