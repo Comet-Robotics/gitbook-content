@@ -22,7 +22,7 @@ Your project should now include a list of directories along with a `platform.ini
 
 ## Git setup
 
-Git/Github provides a way for multiple people to collaborate on one project and managing version control. You can use Github with the CLI or by using VSCode's built-in Git commands. If you are new to Github, you can follow this handy [tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+Git/Github provides a way for multiple people to collaborate on one project and manage version control. You can use Github with the CLI or by using VSCode's built-in Git commands. If you are new to Github, you can follow this handy [tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 Generally the workflow of Git consists of the following:
 
