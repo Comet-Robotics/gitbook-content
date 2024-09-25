@@ -26,6 +26,8 @@
 ## SOFTWARE
 
 * [Getting Started](software/getting-started.md)
+* [Firmware Training](software/firmware-training/README.md)
+  * [Part 1: Running Blinky](software/firmware-training/part-1-running-blinky.md)
 
 ## MECHANICAL DESIGN
 

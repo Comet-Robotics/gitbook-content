@@ -10,7 +10,7 @@ After you've selected your motors, you are probably wondering how we will supply
 Do not supply current directly to your motors!&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>L293D H-bridge motor driver</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>L293D H-bridge motor driver</p></figcaption></figure>
 
 To operate our motors safely, we will need to use a motor driver. A motor driver is a circuit that controls both speed and direction of an electric motor. Motor drivers receive a low current logic-level input from the microcontroller and send a corresponding high-power output to the motor.  This function allows us to safely handle the power requirements of motors.&#x20;
 

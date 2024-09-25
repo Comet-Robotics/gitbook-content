@@ -14,13 +14,13 @@ IR sensors come in two types: analog and digital sensors. Analog sensors, such a
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>JSUMO JS40F IR sensors</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>JSUMO JS40F IR sensors</p></figcaption></figure>
 
 {% hint style="warning" %}
 If using JSUMO sensors, be mindful of limited documentation that is provided.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>SHARP GP2Y0A21YK0F</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>SHARP GP2Y0A21YK0F</p></figcaption></figure>
 
 {% hint style="info" %}
 There is an Arduino library called [SharpIR](https://www.arduino.cc/reference/en/libraries/sharpir/) that makes reading analog signals from several models of IR sensors a lot easier.&#x20;

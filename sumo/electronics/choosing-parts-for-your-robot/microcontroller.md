@@ -19,25 +19,23 @@ Like our brain, a microcontroller is responsible for processing loads of informa
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>An official Arduino R3 microcontroller board</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>An official Arduino R3 microcontroller board</p></figcaption></figure>
 
 &#x20;
 
 These are among a few of the most popular brands used for robot sumo and robotics projects in general. The microcontroller boards sold out there are generally very diverse and specialized for a variety of purposes, so the specs of your board should meet the requirements of your robot. We could really go on endlessly about this subject. In general, these are a few things you should consider when selecting a board: size, number of input/output pins, clock speed, peripherals, and cost.&#x20;
 
-
-
 #### Size
 
 This will never not be a consideration for our sumo bot. Ideally, choose a board that is small enough while leaving room for other parts that will eventually go on your PCB (more on this in later sections).&#x20;
 
-#### Input/Output Pins&#x20;
+#### I/O Pins&#x20;
 
 Consider the number of sensors, motors, and other devices you plan to attach to the microcontroller. A board like the[ Arduino MEGA R3](https://store.arduino.cc/products/arduino-mega-2560-rev3) is absolute overkill for a mini sumo bot (Not to mention too large).&#x20;
 
 
 
-Clock speed&#x20;
+**Clock speed**&#x20;
 
 When starting out, this isn't a huge consideration. Arduino works just fine for a sumo bot. Of course, a microcontroller with very clock speeds like Teensy will allow for faster response times and technical movements.&#x20;
 
