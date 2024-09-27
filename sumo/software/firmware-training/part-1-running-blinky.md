@@ -53,7 +53,7 @@ We'll now be uploading the "hello world" of embedded systems, a program that bli
 
 ## Arduino Programming Syntax&#x20;
 
-The "Arduino programming language" is a variety of C++ that has a lot of abstraction for accessing different peripherals and devices on an embedded system. Because of its simplicity and support for many boards, the Arduino language is a very versatile tool for a lot of projects. In this section, we should acquaint ourselves with several basic functions that allow writing to and reading from general purpose input/output (or **GPIO**) pins as well as scheduling delays in our system. &#x20;
+The "Arduino programming language" is a variety of C++ that has a lot of abstraction for accessing different peripherals and devices on an embedded system. Because of its simplicity and support for many boards, the Arduino language is a very versatile tool for a lot of projects. In this section, we should acquaint ourselves with several basic functions that allow writing to and reading from general purpose input/output (**GPIO**) pins as well as scheduling delays in our system. &#x20;
 
 ```
 pinMode(pin, mode)
@@ -65,13 +65,13 @@ This function allows us to configure one of the pins on the board to either an I
 digitalRead(pin)
 ```
 
-This function does what it describes; it reads the current value at that pin. This is an example of a concept called **polling** where the CPU checks if the device connected to the pin needs attention at a regular interval. This is not to be confused with **interrupts** which will be described in a later section. Let's say we want to read from an INPUT pin D10. To poll D10 we would write `digitalRead(10);`&#x20;
+This function does what it describes; it reads the current value at that pin. This is an example of **polling** where the CPU checks if the device connected to the pin needs attention at a regular interval. This is not to be confused with **interrupts** which will be described in a later section. Let's say we want to read from an INPUT pin D10. To poll D10 we would write `digitalRead(10);`&#x20;
 
 ```
 digitalWrite(pin, value) 
 ```
 
-Instead of reading a pin, this function allows us to write a logical HIGH or LOW value to an OUTPUT pin. Let's say we want to turn on the Arduino's built-in LED. I can either write `digitalWrite(13, HIGH;` or `digitalWrite(LED_BUILTIN, HIGH);` To turn off the LED, pass LOW instead.&#x20;
+Instead of reading a pin, this function allows us to write a logical HIGH or LOW value to an OUTPUT pin. Let's say we want to turn on the Arduino's built-in LED. You can either write `digitalWrite(13, HIGH;` or `digitalWrite(LED_BUILTIN, HIGH);` To turn off the LED, pass LOW instead.&#x20;
 
 ```
 delay(ms) 
@@ -81,16 +81,16 @@ This function pauses the program for the amount of time (in milliseconds) passed
 
 ## void setup() and void loop()&#x20;
 
-You will notice every Arduino program requires a `void setup()` and a `void loop()` to compile. `void setup()` is a function that will only run once in your program. It typically used for configuring IO and communication protocols. `void loop()` on the other hand is where the bulk of your program will be stored. This function will run indefinitely until the board is reset or powered off.&#x20;
+You will notice every Arduino program requires a `void setup()` and a `void loop()` to compile. `void setup()` is a function that will only run once in your program. It is typically used one time actions such as configuring IO pins and communication protocols. `void loop()` on the other hand is where the bulk of your program will be stored. This function will run indefinitely until the board is reset or powered off.&#x20;
 
 ## Challenge #1: Flash an LED with button&#x20;
 
 * Objective: using `digitalRead` to poll the button, try control the rate an LED blinks. For example, you could have a slower and a faster mode.&#x20;
-* Read the section on Debouncing to figure out how to poll the button
+* Read the section on **Debouncing** to figure out how to poll the button properly.&#x20;
 
 ## Challenge #2: Ready, Set, Go! Countdown&#x20;
 
-* Objective: Make a program that flashes a sequence of LEDs beginning with red for "Ready", then yellow for "Set" and finally green for "Go!" whenever a button is pressed.&#x20;
+* Objective: Make a program that flashes a sequence of LEDs beginning with red for "Ready", then yellow for "Set" and finally green for "Go!" whenever a button is pressed. You can choose how much delay you want in between each LED.&#x20;
 * All LEDs should be off after the cycle is complete.&#x20;
 
 ## Challenge #3: 4-bit Binary Counter&#x20;
