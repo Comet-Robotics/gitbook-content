@@ -19,48 +19,42 @@ layout:
 
 # 👋 Welcome!
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+## Welcome!
 
-## Overview
+Comet Robotics at UT Dallas is proud to present Comet Clash 2024! Comet Clash is the first combat robotics event hosted at UT Dallas, but follows a long history of combat robotics at the university!
 
-Here are a couple of example overviews from products with really great docs:
+**Location:** Indoors at the [ECSW building](https://maps.app.goo.gl/p5v51uZAD87QZ1QH9) (2520 Rutford Ave, Richardson, TX 75080)&#x20;
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+**Time:** Competitors can begin arriving and do safety at 7:30. Matches planned to start at 9:00 AM. Please be on-site by 8:30 AM so we can get all robots through safety on time. We plan to finish at 6:00pm, but the building won't close until 9:00pm, so we will go until we finish.&#x20;
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+**Facilities:** We plan to provide plenty of Tables and chairs, but this is pending. Bathrooms, elevators are onsite. Electrical outlets may be limited, so it is recommended to bring your own power strips and extension cords.&#x20;
 
-## Quick links
+**Arena:**  The arena is 8 ft x 8 ft x 4 ft tall with a wooden floor.  There is a seam in the middle of the floor, but we do our best to minimize it.
 
+**Robots:**  Robots must meet the SPARC V1.4 Robot Construction Specifications. In addition, no fire weapons or ICE (Internal Combustion Engines). A lipo charging bag must be used when charging batteries. Weapon locks and sharp edge covers must be used while the bot is outside of the arena.&#x20;
 
+**Weight Classes:** 16 Plastic Ant (1lb plastic), 16 Ant (1lb) and 16 Beetle (3lb).
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+**Format:** Dependent on number of entrants.  Robots registered in tournament will be guaranteed at least two fights.&#x20;
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+**Fees:** The registration for the tournament is $20 per bot and will be handled at the event. ($10 for Plants and College teams)
 
-## Get Started
+**Prizes:** Trophies for 1st, 2nd, and 3rd place finishers in each weight class.
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+**Parking:** Parking TBD
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Join our Discord for more updates! [https://discord.gg/QjEgWSvuQV](https://discord.gg/QjEgWSvuQV)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## Quick Links
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Register on Robot Combat Events
+
+Fill out minor waiver
+
+Pay participation fee
+
+## Contact
+
+Email: cometrobotics@utdallas.edu
+
+Socials here
