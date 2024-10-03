@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/comet_clash_banner.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: false
   description:
@@ -18,6 +13,8 @@ layout:
 ---
 
 # 👋 Welcome!
+
+<figure><img src=".gitbook/assets/comet_clash_banner.png" alt=""><figcaption></figcaption></figure>
 
 ## Welcome!
 
@@ -46,6 +43,12 @@ Comet Robotics at UT Dallas is proud to present Comet Clash 2024! Comet Clash is
 Join our Discord for more updates! [https://discord.gg/QjEgWSvuQV](https://discord.gg/QjEgWSvuQV)
 
 ## Quick Links
+
+<figure><img src=".gitbook/assets/regis.svg" alt="" width="73"><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Testing testing</td><td><img src=".gitbook/assets/regis.svg" alt=""></td><td><a href=".gitbook/assets/comet_clash_banner.png">comet_clash_banner.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
 
 Register on Robot Combat Events
 
