@@ -1,4 +1,11 @@
+---
+cover: .gitbook/assets/IMG_0141.jpeg
+coverY: 0
+---
+
 # Organizer Guide
+
+Currently a work in progress :)
 
 Similar works in this space for inspiration:
 
