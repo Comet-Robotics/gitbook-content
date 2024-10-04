@@ -64,3 +64,28 @@ this is a massive brain dump. will organize thoughts later
     * If expecting/hoping for a decent number of spectators, how do we create a great experience for people that aren't competing?
       * Commentators?
     * probably more stuff that im not thinking of rn and will add later
+    * 
+
+---
+
+marketing
+- posters
+- social post
+- utd digital signage
+- utd calendar
+- discord postings
+- email reach outs
+- branding
+- remember to include PACE message
+- 
+risk and safety
+- box enhancements
+
+day-of experience
+- scoring
+- signage/decorations
+- schedule/run of show
+- live stream/media/photog
+- prizes
+- ruleset (SPARC)
+- logistics of moving the box from SPN to ECSW/AC
