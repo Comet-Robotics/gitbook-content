@@ -6,7 +6,7 @@ hidden: true
 
 {% embed url="https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1&t=84tFMUeo5ZFh9UNc-1" %}
 
-
+there are GIFs for FRC game win animations in that figjam that don't play in the embed - here's the link to access it outside of this embed: [https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1](https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1)
 
 ## Scenes
 
