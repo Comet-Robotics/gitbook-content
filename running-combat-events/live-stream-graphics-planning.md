@@ -45,6 +45,7 @@ semi uncoordinated technical thoughts below proceed at your own risk :p
 * Box Camera
   * Can't check out iPhones from ATEC anymore :( maybe i'll send some emails and see who i have to beg to make this happen because there's no way they straight up don't have them anymore, right??
   * can apparently check out 90D w fisheye lens from ATEC - need to see if this is a decent option for the box in terms of framing - a typical DSLR 18-55mm is not able to capture the full box in the same way we could w the iphone ultrawide at widest focal length
+    * never mind i faked this i must have heard fisheye lenses were an option somewhere else
 * Zoom H6
   * Check out from ATEC, send tracks into OBS via USB cable
   * the kit is supposed to include the USB cable but doesn't always. double check this at the ATEC checkout desk but also be prepared with own mini USB-B to USB A cable just in case.
