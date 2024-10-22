@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Live Stream  / Graphics Planning
 
 {% embed url="https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1&t=84tFMUeo5ZFh9UNc-1" %}
