@@ -1,4 +1,4 @@
-# Live Stream  / Graphics Planning
+# Live Stream / Graphics Planning
 
 {% embed url="https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1&t=84tFMUeo5ZFh9UNc-1" %}
 
@@ -8,6 +8,9 @@ there are GIFs for FRC game win animations in that figjam that don't play in the
 
 * Match Scene
   * Large view of box cam w/ overlays for time remaining in match and robot names. think regular live tv sports broadcast stuff
+    * If using only 1 camera, just 1 camera
+    * If using 2 camera, then we should probably have a match scene view and a overhead view
+    * If using 3 or more, we should figure that out lmao
 * Team Win
   * Make cool animations for orange/green win like the ones on FRC streams
   * thought: maybe we change the team colors, this is just what the box colors for each team currently are
@@ -23,26 +26,48 @@ there are GIFs for FRC game win animations in that figjam that don't play in the
   * Matches Overview
   * QR Code with link to website (has links to challonge, RCE, etc)
 
+## Scene & Graphics Colors
+
+Are we going with Comet Clash colors or do you have something else in mind? Need 5 colors for graphics work to begin, see [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
+
+
+
+## Stream Setup System
+
+Where do we place commentators, do commentators get a table, long power strips for power control for Streamers, etc.
+
+```mermaid
+mindmap
+        Field
+	        (Camera Pipeline to Livestream Station)
+            Livestream Station (To YT Stream)
+              Interview Station maybe
+              MC/Announcer Station
+```
+
+RIP mermaid.js isn't working ;(
+
 semi uncoordinated technical thoughts below proceed at your own risk :p
 
 ***
 
 ## Content Destinations
 
-* YT Live Stream
+* YT Live Stream through RTSP YT
 * Video Wall (atrium, main comp. area)
-  * Has 16:9 area that we can definitely push content to via HDMI (port on wall under green staircase), and an additional strip on the right side that I don't know the aspect ratio of but would absolutely love if we could push content to that whole area. Idk if we send them 2 separate inputs, or 1 input with a weird aspect ratio, but either way it would be super cool to have box cam/whatever other content on the 16:9 portion, and use the right strip to always display the schedule or other info that's really only pertinent to in person people&#x20;
+  * Has 16:9 area that we can definitely push content to via HDMI (port on wall under green staircase), and an additional strip on the right side that I don't know the aspect ratio of but would absolutely love if we could push content to that whole area. Idk if we send them 2 separate inputs, or 1 input with a weird aspect ratio, but either way it would be super cool to have box cam/whatever other content on the 16:9 portion, and use the right strip to always display the schedule or other info that's really only pertinent to in person people
 * Projector (Birds' Nest, competitor pit area)
   * how to get video up here? my first thought is run a (long) ethernet cable from the streaming machine to the birds nest, then get another computer in the birds next with NDI Studio Monitor or vdo.ninja or something we set up w livekit to display video
-  * want to avoid using yt stream for latency sake&#x20;
+  * \~\~want to avoid using yt stream for latency sake\~\~ YouTube's stream is only about 3min behind, and you should not be using YT as live match updates for the competitors, just public. Using something like Google Docs/Google Sheets to update the competitors on next match is more effective and useful.
 
-## Audio/Video Sources
+## Audio/Video Sources & Current Equipment List
 
-* Box Camera
+* Box Camera (Cam?) =
   * Can't check out iPhones from ATEC anymore :( maybe i'll send some emails and see who i have to beg to make this happen because there's no way they straight up don't have them anymore, right??
   * can apparently check out 90D w fisheye lens from ATEC - need to see if this is a decent option for the box in terms of framing - a typical DSLR 18-55mm is not able to capture the full box in the same way we could w the iphone ultrawide at widest focal length
-    * never mind i faked this i must have heard fisheye lenses were an option somewhere else
-* Zoom H6
+    * A Canon 90D needs CANON EOS WEBCAM Utility to plug in, but can be plugged in directly via USB. my streamer laptop is setup for this already.
+  * never mind i faked this i must have heard fisheye lenses were an option somewhere else
+* Zoom H6 (Mic)
   * Check out from ATEC, send tracks into OBS via USB cable
   * the kit is supposed to include the USB cable but doesn't always. double check this at the ATEC checkout desk but also be prepared with own mini USB-B to USB A cable just in case.
   * inputs
@@ -51,11 +76,35 @@ semi uncoordinated technical thoughts below proceed at your own risk :p
     * mic from media services (unknown but will probably use 1/4in or XLR so no conversion needed)
     * battlebox controller (need to convert from 1/4 in to 1/8in)
   * still not 100% sure on audio situation since we are hopefully getting PA + wireless mic from media services. I would like to be able to adjust levels for stream vs birds nest vs atrium separately, we'll see what they provide and figure everything else out later
+    * OBS Can handle quick disconnect and quick reconnect. Are we putting this mic for the announcers or are we putting it in front of the competitors?
+* HyperX Solocast & Microphone Rig (Mic)
+  * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
+  * Really nice statically mounted microphone for presenters, commentators, etc.
+* Canon Rebel T3i (Cam, DSLR) + Lavalier mic (Mic)
+  * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
+  * Requires the EOS Webcam Utility to work, but produces 1080p
+  * Works with OBS fine at 720p
+  * Comes with Tripod
+  * Really good for static close ups and some wide shots.
+  * Comes with a Lavalier Microphone for Interviews&#x20;
+* Gopro Hero 3 (Cam, Action)
+  * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
+  * Requires a USB Dongle (which I will bring if reminded) to MicroHDMI into cam.
+  * [https://www.youtube.com/watch?v=uS-XHBf\_raE](https://www.youtube.com/watch?v=uS-XHBf\_raE) (tutorial)
+  * Really good for high angle - top down view
+* Misc USB Webcams (Cam, Fixed)
+  * Multiple small USB webcams can be chained together to create action camera looks, view in certain areas.
+* MSI G65 Streamer Setup (Laptop)
+  * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
+  * OBS Setup and ready to go
+  * EOS Webcam utility setup and ready
+  * Tested with Limited Technologies Streaming equipment
 
 ## Misc. Notes
 
 * Will likely need to involve something like [CasparCG](https://casparcg.com) ([less preferable](https://github.com/CasparCG/help/wiki/Media%3A-HTML-Templates#the-caveats)) or [SPX-GC](https://www.spx.graphics) (seems to be better suited for our use case) for the scenes which have dynamic data stuff. Authoring templates is done via HTML and/or via tools like [Loopic](https://www.loopic.io). Bringing these graphics into OBS is trivial.
   * need to start designing this stuff soon (now!)
+    * Is there a reason we're not thinking of just creating Stock OBS graphics? Like static vids and stuff? Nobody will complain about us not having news-sports style graphics if we look decently professional with good lighting. -B
   * one advantage that casparcg has over SPX that I hadn't considered previously - since CasparCG supports NDI output, we can actually receive the graphics with an alpha channel. SPX does playout on a web page, so to include the graphics in OBS we need to use a browser source and then key out whatever background color is used
     * NVM. SPX also supports CasparCG playout. will need to do more research on if it makes sense to use casparcg directly then, because otherwise we'd probably run SPX with Caspar.
   * if we end up using casparcg directly we will likely also want to use smth like [https://github.com/SuperFlyTV/SuperConductor?tab=readme-ov-file](https://github.com/SuperFlyTV/SuperConductor?tab=readme-ov-file)
@@ -77,10 +126,8 @@ semi uncoordinated technical thoughts below proceed at your own risk :p
 
 * Rough idea is to add a new peer to the battlebox controller's ESP NOW network, which just dumps those messages over USB serial to a machine
 * Each team's assist/ready/tapout events could trigger a little pop up or status indicator on the stream
-  * on second thoughts, 'status indicator' implies that state is saved somewhere, which i don't really want to deal with so nvm lol
-* Pressing victory buttons could trigger OBS Team Win scenes and maybe auto update Challonge via API&#x20;
+  * on second thoughts, 'status indicator' implies that state is saved somewhere, which i don't really want to deal with so nvm lol&#x20;
+  * This is a beautifully complicated idea, I advise instead just including a clock next to the camera footage so we can see the live match time and can work backwards xD - B
+* Pressing victory buttons could trigger OBS Team Win scenes and maybe auto update Challonge via API
 * Starting/unpausing/changing duration of a match should send a message with the amount of millliseconds remaining in the match (used to display a count down timer on stream)
 * Pausing a match should send a message which we use to stop the countdown timer
-
-
-
