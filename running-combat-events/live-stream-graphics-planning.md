@@ -1,7 +1,5 @@
 # Live Stream / Graphics Planning
 
-{% embed url="https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1&t=84tFMUeo5ZFh9UNc-1" %}
-
 there are GIFs for FRC game win animations in that figjam that don't play in the embed - here's the link to access it outside of this embed: [https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1](https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1)
 
 ## Scenes
@@ -30,22 +28,41 @@ there are GIFs for FRC game win animations in that figjam that don't play in the
 
 Are we going with Comet Clash colors or do you have something else in mind? Need 5 colors for graphics work to begin, see [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
+## Music
 
+Music should be copyright free or copyright reduced. Copyright free is any song listed as "Copyright Free" by the author. "Copyright Reduced" is music past 10+ years where enforcement is difficult to identify, usually fan covers of video game music or abandonware video game music.
+
+Bernard Has a couple playlists of "Copyright Reduced" music, see&#x20;
+
+Scifi & Tech Themed - [https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUXJk77YEAoO-AvqN\_cG\_7wAFrHQRKe\&index=1](https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUXJk77YEAoO-AvqN\_cG\_7wAFrHQRKe\&index=1)
+
+100% Copyright Free Music -&#x20;
+
+[https://www.youtube.com/watch?v=tDexBj46oNI\&list=PLRSUXJk77YEDOsWF5WwnNYkuR3pos7PnU\&index=1](https://www.youtube.com/watch?v=tDexBj46oNI\&list=PLRSUXJk77YEDOsWF5WwnNYkuR3pos7PnU\&index=1)&#x20;
+
+&#x20;Jazz Music, pre 1927 (Copyright expiration date) -&#x20;
+
+[https://www.youtube.com/watch?v=bqkEJG\_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1](https://www.youtube.com/watch?v=bqkEJG\_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1)&#x20;
+
+We can probably pick a theme and stick with it.
 
 ## Stream Setup System
 
 Where do we place commentators, do commentators get a table, long power strips for power control for Streamers, etc.
 
-```mermaid
-mindmap
-        Field
-	        (Camera Pipeline to Livestream Station)
-            Livestream Station (To YT Stream)
-              Interview Station maybe
-              MC/Announcer Station
-```
 
-RIP mermaid.js isn't working ;(
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+| Equipment                                        | Source                   | Description             | Placement        |
+| ------------------------------------------------ | ------------------------ | ----------------------- | ---------------- |
+| HyperX Solocast & Microphone Rig (Mic)           | Limited Technologies LLC | Desk mounted Microphone | Announcer's Desk |
+| Gopro Hero 3 (Cam, Action)                       | Limited Technologies LLC | Action Camera           | Field 1 Top      |
+| Canon Rebel T3i (Cam, DSLR) + Lavalier mic (Mic) | Limited Technologies LLC | Point camera            | Field 1 Side     |
+| MSI G65 Streamer Setup (Laptop)                  | Limited Technologies LLC | Main Streamer Laptop    | Announcer's Desk |
+|                                                  |                          |                         |                  |
+
+***
 
 semi uncoordinated technical thoughts below proceed at your own risk :p
 
@@ -87,18 +104,23 @@ semi uncoordinated technical thoughts below proceed at your own risk :p
   * Comes with Tripod
   * Really good for static close ups and some wide shots.
   * Comes with a Lavalier Microphone for Interviews&#x20;
+* Gopro Hero 10 (Cam, Action)
+  *
 * Gopro Hero 3 (Cam, Action)
   * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
-  * Requires a USB Dongle (which I will bring if reminded) to MicroHDMI into cam.
+  * Requires a USB Dongle (which I will bring if reminded) to MicroHDMI into cam
   * [https://www.youtube.com/watch?v=uS-XHBf\_raE](https://www.youtube.com/watch?v=uS-XHBf\_raE) (tutorial)
   * Really good for high angle - top down view
 * Misc USB Webcams (Cam, Fixed)
   * Multiple small USB webcams can be chained together to create action camera looks, view in certain areas.
-* MSI G65 Streamer Setup (Laptop)
-  * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
-  * OBS Setup and ready to go
-  * EOS Webcam utility setup and ready
-  * Tested with Limited Technologies Streaming equipment
+*   MSI G65 Streamer Setup (Laptop)
+
+    * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
+    * OBS Setup and ready to go
+    * EOS Webcam utility setup and ready
+    * Tested with Limited Technologies Streaming equipment
+
+
 
 ## Misc. Notes
 
