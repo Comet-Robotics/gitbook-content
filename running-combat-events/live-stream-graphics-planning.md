@@ -1,24 +1,39 @@
 # Live Stream / Graphics Planning
 
-there are GIFs for FRC game win animations in that figjam that don't play in the embed - here's the link to access it outside of this embed: [https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1](https://www.figma.com/board/gEfSkfhj31eD1XMoWmmaTs/Comet-Clash-Broadcast-Diagram?node-id=0-1\&t=84tFMUeo5ZFh9UNc-1)
+## TASKS FOR LIVE STREAMING -&#x20;
+
+* Setup Cameras (Day of)
+* Select Music Theme and create a youtube playlist (DUE NEXT FRIDAY)
+* Bernard can double check copyright of each music
+* Create a "We'll be right back" video using slides or pptx.&#x20;
+* Setup Audio (Day of)
+* RTSP Key (Day before)
 
 ## Scenes
 
-* Match Scene
+* Match Scene \[Bernard]
   * Large view of box cam w/ overlays for time remaining in match and robot names. think regular live tv sports broadcast stuff
-    * If using only 1 camera, just 1 camera
-    * If using 2 camera, then we should probably have a match scene view and a overhead view
-    * If using 3 or more, we should figure that out lmao
-* Team Win
-  * Make cool animations for orange/green win like the ones on FRC streams
-  * thought: maybe we change the team colors, this is just what the box colors for each team currently are
-* Matches Overview
+    * Using only 1 top down camera per field.
+    * If we want, we can create a scene where we split screen both fields.
+* Team Win \[Bernard]
+  * Enable studio mode in controls
+  * have a winner screen with "Enter Winning Robot name here'
+  * Edit the text
+  * click transition
+* Matches Overview \[Bernard]
   * Upcoming matches on one side, prev. match results on the other
-* Pre Match Overview
+  * Scene will use a Window Capture source on a browser and display from Challonge
+  * Chat Included
+  * Maybe announcer bottom window
+* Pre Match Overview (Too difficult to Implement)
   * For each robot in the upcoming match, display robot name, picture, school/team affiliation, W/L record for the event
   * Can pull most data off of RCE and/or Challonge via API
   * maybe have a photo booth at the event for robot pictures. could be super cool to put each robot on a carousel and record a loop of it spinning 360 degrees instead of using a simple robot picture on the slide
-* Slideshow w/ Misc. Media (for use between matches)
+* Announcer View \[Bernard]
+  * For Interviews or just for announcer solo to talk about things
+  * Announcer in full frame, no fields on each frame
+  * Includes Chat
+* Slideshow w/ Misc. Media (for use between matches) \[Jason]
   * Comet Clash Banner
   * Thank you to our sponsors
   * Matches Overview
