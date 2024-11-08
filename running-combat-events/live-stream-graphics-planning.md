@@ -8,6 +8,8 @@
 * Create a "We'll be right back" video using slides or pptx.&#x20;
 * Setup Audio (Day of)
 * RTSP Key (Day before)
+* Bring bernard a monitor (Day Before)
+* Map of Event&#x20;
 
 ## Scenes
 
