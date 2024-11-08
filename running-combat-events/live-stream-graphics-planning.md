@@ -57,8 +57,9 @@ Where do we place commentators, do commentators get a table, long power strips f
 | Equipment                                        | Source                   | Description             | Placement        |
 | ------------------------------------------------ | ------------------------ | ----------------------- | ---------------- |
 | HyperX Solocast & Microphone Rig (Mic)           | Limited Technologies LLC | Desk mounted Microphone | Announcer's Desk |
-| Gopro Hero 3 (Cam, Action)                       | Limited Technologies LLC | Action Camera           | Field 1 Top      |
-| Canon Rebel T3i (Cam, DSLR) + Lavalier mic (Mic) | Limited Technologies LLC | Point camera            | Field 1 Side     |
+| Gopro Hero 3 (Cam, Action)                       | Limited Technologies LLC | Action Camera           | Field 2 Top      |
+| Gopro Hero 10 (Cam, Action)                      | Limited Technologies LLC | Action Camera           | Field 1 Top      |
+| Canon Rebel T3i (Cam, DSLR) + Lavalier mic (Mic) | Limited Technologies LLC | Point camera            | Announcer's Desk |
 | MSI G65 Streamer Setup (Laptop)                  | Limited Technologies LLC | Main Streamer Laptop    | Announcer's Desk |
 |                                                  |                          |                         |                  |
 
