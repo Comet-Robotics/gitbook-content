@@ -69,7 +69,7 @@ Where do we place commentators, do commentators get a table, long power strips f
 
 
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 | Equipment                                        | Source                   | Description             | Placement        |
 | ------------------------------------------------ | ------------------------ | ----------------------- | ---------------- |
