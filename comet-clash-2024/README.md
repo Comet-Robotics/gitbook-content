@@ -30,6 +30,12 @@ layout:
 
 ## General Information
 
+### Sponsors
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Repeat Robotics</strong></td><td></td><td></td><td><a href=".gitbook/assets/rr.png">rr.png</a></td><td><a href="https://repeat-robotics.com">https://repeat-robotics.com</a></td></tr><tr><td><strong>ELEGOO</strong></td><td></td><td></td><td><a href=".gitbook/assets/elegoo.png">elegoo.png</a></td><td><a href="https://www.elegoo.com">https://www.elegoo.com</a></td></tr></tbody></table>
+
+
+
 ### Event Location and Parking
 
 Comet Clash 2024 will be hosted at the UT Dallas Engineering and Computer Science West (ECSW) building.&#x20;
@@ -76,13 +82,25 @@ For all other competitors, this waiver must be completed.
 
 {% file src=".gitbook/assets/Release-and-Indemnification-Agreement-for-Adults.pdf" %}
 
+### Robot Requirements
+
+Robots must meet the [SPARC Robot Construction Specifications](https://sparc.tools/). In addition, no fire weapons or ICE (Internal Combustion Engines). No projectiles of any kind. No Chemical Propulsion (i.e. Rocket, Thermal, or jet). Weapon locks and sharp edge covers must be used while the bot is outside of the arena.
+
 ### Competition Format
 
 More details to come.
 
-### Judging Format&#x20;
+### Judging Format, Match Rules, and Prizes
 
-More details to come.
+Judges decisions are final. Judges will score based on the new [SPARC Damage and Engagement judging criteria](https://sparc.tools/SPARC\_Judging\_Guidelines\_v1.2.pdf). Note that this is a recent revision to the SPARC judging ruleset (v1.2, revised on 9/8/2024) with significant implications to judges' decisions. If you are unfamiliar with the revisions, we highly encourage you review them before the event.
+
+### Prizes
+
+Trophies are awarded to 1st, 2nd, and 3rd place for each weight class (plant, ant, beetle). Other special awards may be awarded during the event.&#x20;
+
+For each weight class, the 1st place winner will receive a **$40 Repeat Robotics gift card**, with 2nd and 3rd place winners receiving a **$20 Repeat Robotics gift card**! Huge thanks to _Repeat Robotics_ for providing these prizes.
+
+In addition, the 1st place plant winner will receive a **ELEGOO Neptune 4**! Huge thanks to our friends at _ELEGOO_ for providing this prize.
 
 ### Pit Setup
 
@@ -109,3 +127,8 @@ Volunteers have been reached out to via the Discord server - check there for upd
 {% hint style="info" %}
 Comet Robotics at UT Dallas, a registered student organization at The University of Texas at Dallas, will not take custodial responsibility of minors while participating in Comet Clash 2024. Custodial responsibility will remain with teachers K-12, parents, legal guardians, and chaperones.
 {% endhint %}
+
+_Credit to University of Houston’s **Robotics at UH** for the template for this document -_ [_Information Packet - Cougar Cup - Google Docs_](https://docs.google.com/document/d/1lOlm7HXMENNtcZiEZYVDat5OFnV5QgqsYOCQeZogKD4/edit)_._
+
+\
+\
