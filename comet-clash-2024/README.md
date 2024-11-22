@@ -1,13 +1,17 @@
 ---
+description: >-
+  Comet Robotics at UT Dallas is proud to present Comet Clash 2024. Comet Clash
+  is the first combat robotics event hosted at UT Dallas, but follows a long
+  history of combat robotics at the university!
 layout:
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
@@ -15,10 +19,6 @@ layout:
 # 👋 Welcome!
 
 <figure><img src=".gitbook/assets/comet_clash_banner.png" alt=""><figcaption></figcaption></figure>
-
-## Welcome!
-
-Comet Robotics at UT Dallas is proud to present Comet Clash 2024. Comet Clash is the first combat robotics event hosted at UT Dallas, but follows a long history of combat robotics at the university!
 
 ## Quick Links
 
