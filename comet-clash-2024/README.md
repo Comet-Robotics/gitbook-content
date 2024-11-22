@@ -54,7 +54,7 @@ This parking permit only allows free parking in spots marked as **orange, gold, 
 
 ### Concessions
 
-More details to come.
+Concessions will be available at the event - more details to come.
 
 ### Schedule
 
