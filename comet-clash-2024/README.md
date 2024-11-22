@@ -58,13 +58,21 @@ This parking permit only allows free parking in spots marked as **orange, gold, 
 
 {% file src=".gitbook/assets/2024-11-23-53247-Comet_Clash_Orange_Permit (1).pdf" %}
 
+### Schedule
+
+* 07:10 - Doors open, check-in and safety starts
+* 08:30 - Check-in closes. you MUST be in the building by now if you plan on competing
+* 08:50 - Driver's meeting, brackets will be finalized at this point
+* 09:00 - Fights begin with round 1
+* 11:00 - Break for lunch between round 1 and round 2
+* 11:40 - Round 2 fights begin, all classes
+* 13:50 - Round 3 fights begin, all classes
+* 16:00 - Finals bracket start
+* 18:00 - Estimated finish
+
 ### Concessions
 
 Concessions will be available at the event - more details to come.
-
-### Schedule
-
-Doors open at 7am. Matches will begin at 9am, with a target end time of 6pm. More details to come.
 
 
 
@@ -84,13 +92,9 @@ For all other competitors, this waiver must be completed.
 
 ### Robot Requirements
 
-Robots must meet the [SPARC Robot Construction Specifications](https://sparc.tools/). In addition, no fire weapons or ICE (Internal Combustion Engines). No projectiles of any kind. No Chemical Propulsion (i.e. Rocket, Thermal, or jet). Weapon locks and sharp edge covers must be used while the bot is outside of the arena.
+Robots must meet the [SPARC Robot Construction Specifications](https://sparc.tools/). In addition, no fire weapons or ICE (Internal Combustion Engines). No projectiles of any kind. No Chemical Propulsion (i.e. Rocket, Thermal, or jet). Weapon locks must be used while the bot is outside of the arena.
 
-### Competition Format
-
-More details to come.
-
-### Judging Format, Match Rules, and Prizes
+### Judging Format
 
 Judges decisions are final. Judges will score based on the new [SPARC Damage and Engagement judging criteria](https://sparc.tools/SPARC\_Judging\_Guidelines\_v1.2.pdf). Note that this is a recent revision to the SPARC judging ruleset (v1.2, revised on 9/8/2024) with significant implications to judges' decisions. If you are unfamiliar with the revisions, we highly encourage you review them before the event.
 
