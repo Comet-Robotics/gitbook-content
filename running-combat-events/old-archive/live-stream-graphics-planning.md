@@ -51,7 +51,7 @@ Music should be copyright free or copyright reduced. Copyright free is any song 
 
 Bernard Has a couple playlists of "Copyright Reduced" music, see&#x20;
 
-Scifi & Tech Themed - [https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUXJk77YEAoO-AvqN\_cG\_7wAFrHQRKe\&index=1](https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUXJk77YEAoO-AvqN\_cG\_7wAFrHQRKe\&index=1)
+Scifi & Tech Themed - [https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUXJk77YEAoO-AvqN\_cG\_7wAFrHQRKe\&index=1](https://www.youtube.com/watch?v=PNg7ua9_Mjo\&list=PLRSUXJk77YEAoO-AvqN_cG_7wAFrHQRKe\&index=1)
 
 100% Copyright Free Music -&#x20;
 
@@ -59,7 +59,7 @@ Scifi & Tech Themed - [https://www.youtube.com/watch?v=PNg7ua9\_Mjo\&list=PLRSUX
 
 &#x20;Jazz Music, pre 1927 (Copyright expiration date) -&#x20;
 
-[https://www.youtube.com/watch?v=bqkEJG\_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1](https://www.youtube.com/watch?v=bqkEJG\_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1)&#x20;
+[https://www.youtube.com/watch?v=bqkEJG\_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1](https://www.youtube.com/watch?v=bqkEJG_Lnag\&list=PLwKJ7rQxCefIGhMZeCP5XtKLcTY5c3JlF\&index=1)&#x20;
 
 We can probably pick a theme and stick with it.
 
@@ -69,7 +69,7 @@ Where do we place commentators, do commentators get a table, long power strips f
 
 
 
-<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 | Equipment                                        | Source                   | Description             | Placement        |
 | ------------------------------------------------ | ------------------------ | ----------------------- | ---------------- |
@@ -127,7 +127,7 @@ semi uncoordinated technical thoughts below proceed at your own risk :p
 * Gopro Hero 3 (Cam, Action)
   * (On loan from Limited Technologies LLC - ASK BERNARD TO BRING)
   * Requires a USB Dongle (which I will bring if reminded) to MicroHDMI into cam
-  * [https://www.youtube.com/watch?v=uS-XHBf\_raE](https://www.youtube.com/watch?v=uS-XHBf\_raE) (tutorial)
+  * [https://www.youtube.com/watch?v=uS-XHBf\_raE](https://www.youtube.com/watch?v=uS-XHBf_raE) (tutorial)
   * Really good for high angle - top down view
 * Misc USB Webcams (Cam, Fixed)
   * Multiple small USB webcams can be chained together to create action camera looks, view in certain areas.

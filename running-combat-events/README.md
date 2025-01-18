@@ -1,91 +1,25 @@
 ---
-cover: .gitbook/assets/IMG_0141.jpeg
-coverY: 0
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# Organizer Guide
+# Home
 
-Currently a work in progress :)
+Hi! We're Comet Robotics, a student organization at UT Dallas. This is the Organizer Guide, where we'll take you through the process of running a combat robotics competition. All the information provided is based on our experience organizing Comet Clash 2024, where we hosted over 50 robots for one day of epic robot fighting. This guide was created to serve as a reference guide for event organizers, and we hope that this guide inspires you and helps you to get started with running your own event! But first, one important question...
 
-Similar works in this space for inspiration:
+## Are you sure you want to run an event?
 
-* [https://guide.mlh.io](https://guide.mlh.io)
-* [https://hackclub.com/how-to-organize-a-hackathon/?shipped=true](https://hackclub.com/how-to-organize-a-hackathon/?shipped=true)
-* [https://notebook.lachlanjc.com/2020-01-19\_how\_to\_start\_your\_first\_hackathon](https://notebook.lachlanjc.com/2020-01-19\_how\_to\_start\_your\_first\_hackathon)
-* [https://github.com/hackclub/assemble](https://github.com/hackclub/assemble)
+Running any sort of large event will probably be stressful and take longer than you expect. We made an unfathomable amount of emails and phone calls to make sure the logistics of our event were sound and secure. We spent hours on hours in the summer and during the school year figuring out how to make our event run smoothly and successfully. We don't say this to scare you, but we think it's important to know what you're getting into.
 
+We started planning Comet Clash in June 2024 - 5 months before the event in November 2024. That might seem like a while, but all the planning in the world won't prepare you for the chaos and random stuff that will pop up before and during your event. Additionally, with our organizing team being students, we have to consider that our capacity to work on the event decreases significantly as classes start back up again.&#x20;
 
-
-***
-
-## Rough Outline
-
-this is a massive brain dump. will organize thoughts later
-
-* Figure out your basic event details
-  * Name, date, time, potential locations, total attendance
-    * For total attendance, think about competitors (which weight classes?), spectators, and volunteers needed to make the event successful, and round up to the nearest multiple of 25 or 50 to be safe as far as venue occupancy limits go
-    * When picking a date/time...
-      * Use robot combat events to try to avoid conflicts with other events in the same region
-      * Consider midterms/final exams for local schools if expecting student competitors&#x20;
-      * This is probably obvious but make sure everyone on your organizing team is also available on that date
-      * You'll never find a perfect date where everyone is available so just pick one that works with a decent number of people
-* Lock in a venue + gain authorization to run the event
-  * This is probably the biggest lift as an event organizer and will likely take the longest especially if it's your first time running a large event. This will take longer and be less straight forward than you expect. Get this started early. From start to finish, this probably took about a month of emails, paperwork and red tape to lock in.
-  * For us at UTD, this took
-    * Filling out a [SERA (Special Events Risk Assessment) form](https://legal.utdallas.edu/special-events-risk-assessment/) for the event once date, time, participant count, and location is decided.
-      * This gets the ball rolling on everything, and pretty much every next step you'll want to complete needs this form to be done first.&#x20;
-      * This has to be completed by the faculty advisor, so we have a PDF print out of what the form should look like in SharePoint - fill this out in a Word doc and send it over to the faculty advisor to complete. Examples are in SharePoint.
-    * Going back and forth with the Academic Risk & Safety department as well as the Fire department to ensure that the intended space can safely run the event.
-      * They will probably reach out to you after submitting the SERA form. We reached out to them first but they told us to complete the SERA form before much could really happen.
-    * Speaking with the Programs for Minors office to take care of waivers for minors
-      * Their email is pace@utdallas.edu, but they should reach out to you automatically once you indicate that there will be minors at your event on the SERA form
-      * Requiring adult supervision for minors and not accepting custodial responsibility is the easiest option.
-      * It is technically possible to accept custodial responsibility if you really want to, but to me this seems like more hassle than it's worth. From my limited memory and understanding, there may be fees for this, need for additional insurance policies, paperwork, etc.
-      * They provided a disclaimer that needs to be displayed on any communications about the event.
-        * Their template: The University of Texas at Dallas (insert name of college/school/unit/department) will not take custodial responsibility of minors while participating in (insert name of program). Custodial responsibility will remain with teachers K-12, parents, legal guardians, and chaperones.
-        * What we ended up using with their approval: Comet Robotics at UT Dallas, a registered student organization at The University of Texas at Dallas, will not take custodial responsibility of minors while participating in Comet Clash 2024. Custodial responsibility will remain with teachers K-12, parents, legal guardians, and chaperones.
-    * Getting ECSW reserved through the Dean's office
-      * Initially I went in-person to figure out who to reach out to to make this happen, and later got this taken care of via email.
-    * Getting final approval for the event from ECS Events Manager, Melissa Maxey (also in the Dean's office)
-      * I think we could gotten the approval and the reservation step done all in one if we just went straight to the ECS Events Manager but not too sure. probably would be best to do this before trying to going through other avenues to reserve the space in the future
-    * TODO: generalize this for other people. but also want to document these reqs for ourselves
-* Market your event
-  * WIP.
-* Figure out your event logistics / day of experience
-  * Things I'm thinking about rn
-    * Live stream / PA system / other potential audiovisual needs?
-    * How many battle box(es) will be needed? Who owns the boxes, how will they be transported to the competition space.
-    * How will you handle tables and chairs for pits?
-      * Easy option is to get participants need to bring their own, just communicate this early
-      * UTD Facilities dept may be able to bring in tables/chairs. not sure on costs yet if applicable
-    * Is soldering/battery charging allowed in your space / are there any limitations around this?
-    * Attendee parking arrangements?
-    * If expecting/hoping for a decent number of spectators, how do we create a great experience for people that aren't competing?
-      * Commentators?
-    * probably more stuff that im not thinking of rn and will add later
-    * 
-
----
-
-marketing
-- posters
-- social post
-- utd digital signage
-- utd calendar
-- discord postings
-- email reach outs
-- branding
-- remember to include PACE message
-- 
-risk and safety
-- box enhancements
-
-day-of experience
-- scoring
-- signage/decorations
-- schedule/run of show
-- live stream/media/photog
-- prizes
-- ruleset (SPARC)
-- logistics of moving the box from SPN to ECSW/AC
+These challenges make it all the more important to remember why you're choosing to run an event in the first place. Seeing people walk through the doors of our venue on the morning of our event, meeting fellow combat robotics enthusiasts, and seeing how much fun the competition was, made the months of planning and coordination worth it. Ready to get the ball rolling? Head to the next page to get started.
