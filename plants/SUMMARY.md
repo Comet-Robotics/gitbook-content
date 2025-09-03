@@ -27,3 +27,7 @@
 ## 3D Printing
 
 * [Page 2](3d-printing/page-2.md)
+
+## Miscellaneous
+
+* [Robot Ownership for Club Funded Bots](miscellaneous/robot-ownership-for-club-funded-bots.md)
