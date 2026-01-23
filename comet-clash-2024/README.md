@@ -109,8 +109,8 @@ The main competition box has an 8 foot x 8 foot floor area. The kickplates are 2
 
 ### Quick Rules Recap
 
-* 5 second pins, no weight bonuses, 1 unstick per bot if stuck on the arena. Exposed battery is a KO, 5-6-6 judging format.
-* Specifically for the plastic antweight competition, your bots MUST be 3d printed.
+* 5 second pins, 1 unstick per bot if stuck on the arena, exposed battery is an immediate KO, 4-5 judging format.
+* Specifically for the plastic ant-weight competition, your bots MUST be 3d printed with approved materials.
 * 1 unstick per bot per fight if it is stuck in the arena. Examples include: Stuck in the wall, stuck in the floor, etc. Unsticks will not be given for bots who are upside down or tipped up against the arena wall.
 
 ## For Volunteers
