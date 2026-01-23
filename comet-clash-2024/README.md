@@ -1,19 +1,8 @@
 ---
 description: >-
-  Comet Robotics at UT Dallas is proud to present Comet Clash 2024 - the first
+  Comet Robotics at UT Dallas is proud to present Comet Clash March 2026 - a
   public combat robotics event hosted at UT Dallas, following a long history of
   combat robotics at the university!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Welcome!
@@ -22,7 +11,7 @@ layout:
 
 ## Quick Links
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/2501">https://www.robotcombatevents.com/events/2501</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash 2024, and future events.</td><td></td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Pay robot registration fees here - $10/robot for students of all grades and plants, and $20/robot for non-students.</td><td></td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8">https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel at this page.</td><td></td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td><a href="https://youtube.com/live/NTgX-pgiQPU">https://youtube.com/live/NTgX-pgiQPU</a></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr><tr><td><strong>Shirt Orders</strong></td><td>Missed preorders? A limited number of shirts will be available for purchase at the event.</td><td></td><td></td><td><a href=".gitbook/assets/Comet Clash 2024 T-Shirt Mockup - Front.png">Comet Clash 2024 T-Shirt Mockup - Front.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7">https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7</a></td></tr><tr><td>Event Photos</td><td>Best of Comet Clash 2024</td><td></td><td><a href="https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE/">https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE\</a></td><td><a href=".gitbook/assets/DSC00922_preview.jpeg">DSC00922_preview.jpeg</a></td><td><a href="https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE">https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/2501">https://www.robotcombatevents.com/events/2501</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Pay robot registration fees here - $20 per robot for all weight classes</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8">https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel at this page.</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td><a href="https://youtube.com/live/NTgX-pgiQPU">https://youtube.com/live/NTgX-pgiQPU</a></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr><tr><td><strong>Shirt Orders</strong></td><td>Order a shirt here. Pre-ordered shirts will be available for pick-up day of with a limited number of shirts available to buy</td><td></td><td><a href=".gitbook/assets/Comet Clash 2024 T-Shirt Mockup - Front.png">Comet Clash 2024 T-Shirt Mockup - Front.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7">https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7</a></td></tr><tr><td>Event Photos</td><td>Best of Comet Clash </td><td>(Link to be added)</td><td><a href=".gitbook/assets/DSC00922_preview.jpeg">DSC00922_preview.jpeg</a></td><td><a href="https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE">https://media.cometrobotics.org/share/cs7fB6G5rXs2oHszmZhjVIP4nP9hV3LJlZZoICK2gSe-ZFD-hywy4NaLAWaj1hfEzKE</a></td></tr></tbody></table>
 
 ### Challonge Brackets
 
@@ -38,7 +27,7 @@ layout:
 
 ### Event Location and Parking
 
-Comet Clash 2024 will be hosted at the UT Dallas Engineering and Computer Science West (ECSW) building.&#x20;
+Comet Clash will be hosted at the UT Dallas Engineering and Computer Science West (ECSW) building.&#x20;
 
 {% hint style="info" %}
 2513 Rutford Ave, Richardson, TX 75080, USA
@@ -65,10 +54,10 @@ This parking permit only allows free parking in spots marked as **orange, gold, 
 * 08:50 - Driver's meeting, brackets will be finalized at this point
 * 09:00 - Fights begin with round 1
 * 11:00 - Break for lunch between round 1 and round 2
-* 11:40 - Round 2 fights begin, all classes
-* 13:50 - Round 3 fights begin, all classes
-* 16:00 - Finals bracket start
-* 18:00 - Estimated finish
+* 12:00 - Round 2 fights begin, all classes
+* 14:30 - Round 3 fights begin, all classes
+* 17:00 - Finals bracket start
+* 19:00 - Estimated finish
 
 ### Concessions
 
@@ -92,7 +81,7 @@ For all other competitors, this waiver must be completed.
 
 ### Robot Requirements
 
-Robots must meet the [SPARC Robot Construction Specifications](https://sparc.tools/). In addition, no fire weapons or ICE (Internal Combustion Engines). No projectiles of any kind. No Chemical Propulsion (i.e. Rocket, Thermal, or jet). Weapon locks must be used while the bot is outside of the arena.
+Robots must meet the [SPARC Robot Construction Specifications](https://sparc.tools/). In addition, no fire weapons or ICE (Internal Combustion Engines). No projectiles of any kind. No Chemical Propulsion (i.e. Rocket, Thermal, or jet). Weapon locks must be used while the bot is outside of the arena. Maximum weight bonus for beetles is limited to 150% (4.5 lbs).
 
 ### Judging Format
 
@@ -104,15 +93,15 @@ Trophies are awarded to 1st, 2nd, and 3rd place for each weight class (plant, an
 
 For each weight class, the 1st place winner will receive a **$40 Repeat Robotics gift card**, with 2nd and 3rd place winners receiving a **$20 Repeat Robotics gift card**! Huge thanks to _Repeat Robotics_ for providing these prizes.
 
-In addition, the 1st place plant winner will receive a **ELEGOO Neptune 4**! Huge thanks to our friends at _ELEGOO_ for providing this prize.
+(Other prizes may be available, update when finalized)
 
 ### Pit Setup
 
-Tables and chairs will be provided. Please note that pit is on the floor above the competition area. You will need to use stairs or elevators to get to the pits.
+Tables and chairs will be provided. Please note that the pit area is on the floor above the competition area. You will need to use stairs or elevators to get to the pits.
 
-Battery charging is permitted in any location as long as they are in battery bags.
+Battery charging is permitted in any location as long as they are in battery bags and the battery charger is plugged directly into a socket, not an extension cord or power strip.
 
-Soldering is not permitted in the pits area. Signage will direct competitors to the Electronics Workshop on the same floor as the competition, where soldering is permitted.
+Soldering is not permitted in the pits area. Signage will direct competitors to the Electronics Workshop on the same floor as the competition, where soldering is permitted. Soldering equipment is available but you should bring your own consumables.
 
 ### Battle Box
 
@@ -122,7 +111,7 @@ The main competition box has an 8 foot x 8 foot floor area. The kickplates are 2
 
 * 5 second pins, no weight bonuses, 1 unstick per bot if stuck on the arena. Exposed battery is a KO, 5-6-6 judging format.
 * Specifically for the plastic antweight competition, your bots MUST be 3d printed.
-* 1 unstick on the arena per bot per fight if it is stuck in the arena. Examples include: Stuck in the wall, stuck in the floor, etc. Unsticks will not be given for bots who are upside down or tipped up against the arena wall.
+* 1 unstick per bot per fight if it is stuck in the arena. Examples include: Stuck in the wall, stuck in the floor, etc. Unsticks will not be given for bots who are upside down or tipped up against the arena wall.
 
 ## For Volunteers
 
@@ -135,4 +124,4 @@ Comet Robotics at UT Dallas, a registered student organization at The University
 _Credit to University of Houston’s **Robotics at UH** for the template for this document -_ [_Information Packet - Cougar Cup - Google Docs_](https://docs.google.com/document/d/1lOlm7HXMENNtcZiEZYVDat5OFnV5QgqsYOCQeZogKD4/edit)_._
 
 \
-\
+<br>
