@@ -11,11 +11,11 @@ description: >-
 
 ## Quick Links
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/2501">https://www.robotcombatevents.com/events/2501</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Pay robot registration fees here - $20 per robot for all weight classes</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK?cs=true&#x26;cst=popular">https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK?cs=true&#x26;cst=popular</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel at this page.</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td><a href="https://youtube.com/live/NTgX-pgiQPU">https://youtube.com/live/NTgX-pgiQPU</a></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/6857">https://www.robotcombatevents.com/events/6857</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Link will be available closer to Day of Event</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel. Link will be posted closer to Day of Event</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr></tbody></table>
 
 ### Challonge Brackets
 
-TBA
+Will be posted closer to Day of Event
 
 ## General Information
 
@@ -63,7 +63,7 @@ Concessions will be available at the event - more details to come.
 
 ### Waivers and Registration Fees
 
-Every robot must have a registration fee paid in order to compete at the event. You may pay online using [this link](https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8?cs=true\&cst=popular). Alternatively, we will take cash and card payments in-person during check-in.
+Every robot must have a registration fee paid in order to compete at the event. You may pay online using this link (tbd). Alternatively, we will take cash and card payments in-person during check-in.
 
 All competitors must sign a waiver before competing. We will have physical waivers available on-site to complete, or you can print and sign your waiver ahead of time. Minors must be under the supervision of an adult during the entire event, and provide a completed minor waiver, signed by an adult.
 
@@ -85,7 +85,7 @@ Judges decisions are final. Judges will score based on the new [SPARC Damage and
 
 Trophies are awarded to 1st, 2nd, and 3rd place for each weight class (plant, ant, beetle). Other special awards may be awarded during the event.&#x20;
 
-For each weight class, the 1st place winner will receive a **$40 Repeat Robotics gift card**, with 2nd and 3rd place winners receiving a **$20 Repeat Robotics gift card**! Huge thanks to _Repeat Robotics_ for providing these prizes.
+Other awards will be provided from our sponsors for this event, including Repeat Robotics.
 
 (Other prizes may be available, update when finalized)
 
