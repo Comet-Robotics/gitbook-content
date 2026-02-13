@@ -11,7 +11,7 @@ description: >-
 
 ## Quick Links
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/2501">https://www.robotcombatevents.com/events/2501</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Pay robot registration fees here - $20 per robot for all weight classes</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8">https://comet-robotics.square.site/product/comet-clash-2024-robot-registration-fee/8</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel at this page.</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td><a href="https://youtube.com/live/NTgX-pgiQPU">https://youtube.com/live/NTgX-pgiQPU</a></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr><tr><td><strong>Shirt Orders</strong></td><td>Order a shirt here. Pre-ordered shirts will be available for pick-up day of with a limited number of shirts available to buy</td><td></td><td><a href=".gitbook/assets/Comet Clash 2024 T-Shirt Mockup - Front.png">Comet Clash 2024 T-Shirt Mockup - Front.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7">https://comet-robotics.square.site/product/comet-clash-2024-t-shirt/7</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/2501">https://www.robotcombatevents.com/events/2501</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Pay robot registration fees here - $20 per robot for all weight classes</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK?cs=true&#x26;cst=popular">https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK?cs=true&#x26;cst=popular</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel at this page.</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td><a href="https://youtube.com/live/NTgX-pgiQPU">https://youtube.com/live/NTgX-pgiQPU</a></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr></tbody></table>
 
 ### Challonge Brackets
 
@@ -19,15 +19,9 @@ TBA
 
 ## General Information
 
-### Sponsors
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Repeat Robotics</strong></td><td></td><td></td><td><a href=".gitbook/assets/rr.png">rr.png</a></td><td><a href="https://repeat-robotics.com">https://repeat-robotics.com</a></td></tr><tr><td><strong>ELEGOO</strong></td><td></td><td></td><td><a href=".gitbook/assets/elegoo.png">elegoo.png</a></td><td><a href="https://www.elegoo.com">https://www.elegoo.com</a></td></tr></tbody></table>
-
-
-
 ### Event Location and Parking
 
-Comet Clash will be hosted at the UT Dallas Engineering and Computer Science West (ECSW) building.&#x20;
+Comet Clash will be hosted at the UT Dallas Engineering and Computer Science West (ECSW) building.
 
 {% hint style="info" %}
 2513 Rutford Ave, Richardson, TX 75080, USA
@@ -40,12 +34,12 @@ Parking is free! You will want to park in Lot I or Parking Structure 4 (both hig
 <figure><img src=".gitbook/assets/Parking locations.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-While parking is free, you **must** display a valid parking permit in a visible location on your vehicle to avoid being fined ticketed. We will have printed copies available in the ECSW building for you to place in your vehicle. Alternatively, you may print the PDF file below ahead of time.
+~~While parking is free, you **must** display a valid parking permit in a visible location on your vehicle to avoid being fined ticketed. We will have printed copies available in the ECSW building for you to place in your vehicle. Alternatively, you may print the PDF file below ahead of time.~~
 
-This parking permit only allows free parking in spots marked as **orange, gold, or green**. You may be subject to fines if you park in a spot marked as another color (ex: red or purple),&#x20;
+~~This parking permit only allows free parking in spots marked as **orange, gold, or green**. You may be subject to fines if you park in a spot marked as another color (ex: red or purple).~~
+
+Parking permits will be released at a later date.
 {% endhint %}
-
-{% file src=".gitbook/assets/2024-11-23-53247-Comet_Clash_Orange_Permit (1).pdf" %}
 
 ### Schedule
 
@@ -118,7 +112,7 @@ The main competition box has an 8 foot x 8 foot floor area. The kickplates are 2
 Volunteers have been reached out to via the Discord server - check there for updates and directions on your assigned roles.&#x20;
 
 {% hint style="info" %}
-Comet Robotics at UT Dallas, a registered student organization at The University of Texas at Dallas, will not take custodial responsibility of minors while participating in Comet Clash 2024. Custodial responsibility will remain with teachers K-12, parents, legal guardians, and chaperones.
+Comet Robotics at UT Dallas, a registered student organization at The University of Texas at Dallas, will not take custodial responsibility of minors while participating in Comet Clash 2026. Custodial responsibility will remain with teachers K-12, parents, legal guardians, and chaperones.
 {% endhint %}
 
 _Credit to University of Houston’s **Robotics at UH** for the template for this document -_ [_Information Packet - Cougar Cup - Google Docs_](https://docs.google.com/document/d/1lOlm7HXMENNtcZiEZYVDat5OFnV5QgqsYOCQeZogKD4/edit)_._
