@@ -11,11 +11,14 @@ description: >-
 
 ## Quick Links
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td></td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/6857">https://www.robotcombatevents.com/events/6857</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>Link will be available closer to Day of Event</td><td></td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel. Link will be posted closer to Day of Event</td><td></td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td></td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Robot Combat Events page</strong></td><td>Register for the event here.</td><td><a href=".gitbook/assets/IMG_0123.jpeg">IMG_0123.jpeg</a></td><td><a href="https://www.robotcombatevents.com/events/6857">https://www.robotcombatevents.com/events/6857</a></td></tr><tr><td><strong>Discord Server</strong></td><td>Join 'Comet Robotics at UT Dallas Events' for updates on Comet Clash and future events.</td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 18.02.44@2x.png">CleanShot 2024-11-21 at 18.02.44@2x.png</a></td><td><a href="https://discord.gg/QjEgWSvuQV">https://discord.gg/QjEgWSvuQV</a></td></tr><tr><td><strong>Robot Registration Fee</strong></td><td>You can pay registration here</td><td><a href=".gitbook/assets/CleanShot 2024-11-21 at 17.53.54@2x.png">CleanShot 2024-11-21 at 17.53.54@2x.png</a></td><td><a href="https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK">https://comet-robotics.square.site/product/comet-clash-2026-robot-registration/RUNFQWMN5UD2IN46CANMZIOK</a></td></tr><tr><td><strong>Live Stream</strong></td><td>Matches will be streamed to our YouTube channel. Link will be posted closer to Day of Event</td><td><a href=".gitbook/assets/IMG_9230.JPG">IMG_9230.JPG</a></td><td></td></tr><tr><td><strong>Volunteer Application</strong></td><td>Interested in volunteering? Complete this form and we'll get back to you shortly!</td><td><a href=".gitbook/assets/Screenshot 2024-11-02 161034.png">Screenshot 2024-11-02 161034.png</a></td><td><a href="https://forms.gle/gjj8Sbr8J9DgzW7J8">https://forms.gle/gjj8Sbr8J9DgzW7J8</a></td></tr></tbody></table>
 
 ### Challonge Brackets
 
-Will be posted closer to Day of Event
+Challonge links are available here. Brackets will be shuffled and finalized day of the event.\
+Plants: [https://challonge.com/jtk4dxjm](https://challonge.com/jtk4dxjm)\
+Ants: [https://challonge.com/1nekffha](https://challonge.com/1nekffha)\
+Beetles: [https://challonge.com/o5hm2uyp](https://challonge.com/o5hm2uyp)
 
 ## General Information
 
@@ -55,15 +58,13 @@ Parking permits will be released at a later date.
 
 ### Concessions
 
-Concessions will be available at the event - more details to come.
-
-
+Pizza and water will be provided for volunteers at the lunch break. Anything leftover after all volunteers have been fed will be available for competitors to take as they please.
 
 ## For Competitors
 
 ### Waivers and Registration Fees
 
-Every robot must have a registration fee paid in order to compete at the event. You may pay online using this link (tbd). Alternatively, we will take cash and card payments in-person during check-in.
+Every robot must have a registration fee paid in order to compete at the event. You may pay online using the link provided above. Alternatively, we will take cash and card payments in-person during check-in.
 
 All competitors must sign a waiver before competing. We will have physical waivers available on-site to complete, or you can print and sign your waiver ahead of time. Minors must be under the supervision of an adult during the entire event, and provide a completed minor waiver, signed by an adult.
 
@@ -79,15 +80,13 @@ Robots must meet the [SPARC Robot Construction Specifications](https://sparc.too
 
 ### Judging Format
 
-Judges decisions are final. Judges will score based on the new [SPARC Damage and Engagement judging criteria](https://sparc.tools/SPARC_Judging_Guidelines_v1.2.pdf). Note that this is a recent revision to the SPARC judging ruleset (v1.2, revised on 9/8/2024) with significant implications to judges' decisions. If you are unfamiliar with the revisions, we highly encourage you review them before the event.
+Judges decisions are final. Judges will score based on the new [SPARC Damage and Engagement judging criteria](https://sparc.tools/SPARC_Judging_Guidelines_v1.2.pdf). Note that this is a recent revision to the SPARC judging ruleset (v1.3, revised on 9/21/2025) with significant implications to judges' decisions. If you are unfamiliar with the revisions, we highly encourage you review them before the event.
 
 ### Prizes
 
 Trophies are awarded to 1st, 2nd, and 3rd place for each weight class (plant, ant, beetle). Other special awards may be awarded during the event.&#x20;
 
-Other awards will be provided from our sponsors for this event, including Repeat Robotics.
-
-(Other prizes may be available, update when finalized)
+Other awards will be provided from our sponsors for this event, including Repeat Robotics and Palm Beach Bots.
 
 ### Pit Setup
 
@@ -103,7 +102,7 @@ The main competition box has an 8 foot x 8 foot floor area. The kickplates are 2
 
 ### Quick Rules Recap
 
-* 5 second pins, 1 unstick per bot if stuck on the arena, exposed battery is an immediate KO, 4-5 judging format.
+* 5 second pins, 10 second pins if actively engaging a weapon system, 1 unstick per bot if stuck on the arena, exposed battery is an immediate KO, 4-5 judging format.
 * Specifically for the plastic ant-weight competition, your bots MUST be 3d printed with approved materials.
 * 1 unstick per bot per fight if it is stuck in the arena. Examples include: Stuck in the wall, stuck in the floor, etc. Unsticks will not be given for bots who are upside down or tipped up against the arena wall.
 
