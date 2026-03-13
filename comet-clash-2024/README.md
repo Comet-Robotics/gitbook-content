@@ -37,12 +37,12 @@ Parking is free! You will want to park in Lot I or Parking Structure 4 (both hig
 <figure><img src=".gitbook/assets/Parking locations.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-~~While parking is free, you **must** display a valid parking permit in a visible location on your vehicle to avoid being fined ticketed. We will have printed copies available in the ECSW building for you to place in your vehicle. Alternatively, you may print the PDF file below ahead of time.~~
+While parking is free, you **must** display a valid parking permit in a visible location on your vehicle to avoid being fined ticketed. We will have printed copies available in the ECSW building for you to place in your vehicle. Alternatively, you may print the PDF file below ahead of time.
 
-~~This parking permit only allows free parking in spots marked as **orange, gold, or green**. You may be subject to fines if you park in a spot marked as another color (ex: red or purple).~~
-
-Parking permits will be released at a later date.
+This parking permit only allows free parking in spots marked as **orange, gold, or green**. You may be subject to fines if you park in a spot marked as another color (ex: red or purple).
 {% endhint %}
+
+{% file src=".gitbook/assets/2026-03-14-59667- Comet Robotic Comet Clash.pdf" %}
 
 ### Schedule
 
