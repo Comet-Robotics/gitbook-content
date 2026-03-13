@@ -42,7 +42,7 @@ While parking is free, you **must** display a valid parking permit in a visible 
 This parking permit only allows free parking in spots marked as **orange, gold, or green**. You may be subject to fines if you park in a spot marked as another color (ex: red or purple).
 {% endhint %}
 
-{% file src=".gitbook/assets/2026-03-14-59667- Comet Robotic Comet Clash.pdf" %}
+{% file src=".gitbook/assets/Comet Clash 2026 Parking Permit.pdf" %}
 
 ### Schedule
 
